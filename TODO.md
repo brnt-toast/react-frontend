@@ -11,5 +11,13 @@
     * [x] index.js
         * [x] index.css import
 4. [x] install and import `bootstrap`
-    * [x] `npm i bootstrap`
+    * [x] `npm i react-bootstrap bootstrap`
     * [x] index.js : `import 'bootstrap/dist/css/bootstrap.css`
+5. [x] Create NavBar component
+    * [x] make `compenents/` in `src/` folder : `mkdir components`
+    * [x] create NavBar.js
+    * [x] paste in `bootstrap` Navigation example code
+    * [x] rename `BasicExample` to `NavBar`
+6. [x] import NavBar.js into App.js
+    * [x] in App.js : `import NavBar from './components/NavBar'`
+    * [x] use `<NavBar />` component
