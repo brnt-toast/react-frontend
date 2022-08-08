@@ -10,5 +10,6 @@
         * [x] Everything in nested in div class = App
     * [x] index.js
         * [x] index.css import
-        
-    
+4. [x] install and import `bootstrap`
+    * [x] `npm i bootstrap`
+    * [x] index.js : `import 'bootstrap/dist/css/bootstrap.css`
