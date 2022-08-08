@@ -3,5 +3,12 @@
     * [x] App.css
     * [x] index.css
     * [x] logo.svg
-
+3. [x] del contents in  :
+    * [x] App.js
+        * [x] logo.svg import
+        * [x] App.css import
+        * [x] Everything in nested in div class = App
+    * [x] index.js
+        * [x] index.css import
+        
     
