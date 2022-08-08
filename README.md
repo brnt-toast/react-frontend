@@ -1,5 +1,16 @@
-# react-frontend
-Simple UI with react and BootStrap
+# React Front End : Simplest UI with React and BootStrap
+## Goals: 
+The goal was simple :  
+1. In two hours demostrate how a UI **can easily** be built with simple tools
+    * React 
+    * Bootstrap
+
+2. What the goal was not :
+    * have a fully functioning app 
+    * have a good looking app
+
+3. Cobble together component parts in demostration
+
 ## Available Scripts
 
 In the project directory, you can run:
