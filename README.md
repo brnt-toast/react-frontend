@@ -1,17 +1,22 @@
 # React Front End : Simplest UI with React and BootStrap
+## 7 Easy Steps
 ## Goals: 
-The goal was simple :  
-1. In two hours demostrate how a UI **can easily** be built with simple tools
-    * React 
+1. Demostrate of the fundamentals of React
+    * index.js
+    * App.js
+    * `components` folder
+    * importing components 
+        * using the same component multiple times
+    * exporting functions
+
+2. In two hours show team members by demostration how quick and easy it is to get up and running with react and boot strap :  
+    * React
     * Bootstrap
 
-2. What the goal was not :
+3. What the goal was not :
     * have a fully functioning app 
     * have a good looking app
-
-3. Cobble together component parts in demostration
-
-## Available Scripts
+## Create-React-App : Available Scripts
 
 In the project directory, you can run:
 
