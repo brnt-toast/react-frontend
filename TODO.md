@@ -21,3 +21,7 @@
 6. [x] import NavBar.js into App.js
     * [x] in App.js : `import NavBar from './components/NavBar'`
     * [x] use `<NavBar />` component
+7. [x] Repeat TODOs 5 and 6 foreach Component and SubComponent
+    * [x] FAQ.js    : Accordion 
+    * [x] Box.js    : Card
+    * [x] Data.js   : Table
